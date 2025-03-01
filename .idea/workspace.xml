@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e16cf364-5594-4c76-a994-1b5cd392be72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CarRace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barrier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/car_race.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/warn-car_race.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/car_race/xref-car_race.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/road_barrier.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lives_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/message_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/car_race.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/road_barrier (1).bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/star.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recordboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start_line.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qccQImkxicDUjwSaJZ1mXb9RGo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.alien_invasion.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.car_race.executor": "Run",
+    "Python.lives_board.executor": "Run",
+    "Python.message_start.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/papsa/OneDrive/Python/CarRace",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\papsa\OneDrive\Python\CarRace\build" />
+      <recent name="C:\Users\papsa\OneDrive\Python\CarRace\images" />
+      <recent name="C:\Users\papsa\OneDrive\Python\CarRace" />
+      <recent name="C:\Users\papsa\OneDrive\CarRace\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16cf364-5594-4c76-a994-1b5cd392be72" name="Changes" comment="" />
+      <created>1734965286426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734965286426</updated>
+    </task>
+    <servers />
+  </component>
+</project>
