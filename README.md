@@ -40,4 +40,4 @@ A simple **pygame** arcade game where you fly a plane, avoid hitting barricades,
 ---
 
 ## 🎥 Gameplay Video
-[![▶️ Watch Gameplay](Car-Race-pygame-/videos/0918.mp4)]
+[![▶️ Watch Gameplay](videos/0918.mp4)]
