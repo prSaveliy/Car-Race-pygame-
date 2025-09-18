@@ -23,7 +23,7 @@ A simple **pygame** arcade game where you fly a plane, avoid hitting barricades,
 ## 📦 Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/prSaveliy/car-race.git
+   git clone https://github.com/prSaveliy/Car-Race-pygame-.git
    cd car-race
     ```
 
